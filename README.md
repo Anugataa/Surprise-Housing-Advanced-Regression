@@ -1,0 +1,2 @@
+# Surprise-Housing-Advanced-Regression
+Surprise Housing is a US based company debuting in Austrailian Real Estate Market. They specialize in buying houses in low price and sell them in higher price after renovating them using data analytics. The company needs to analyze and understand the patterns and important factors from the collected dataset of Sold houses in Australian market. The company is looking at prospective properties to buy to enter the market.
